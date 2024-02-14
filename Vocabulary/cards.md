@@ -2180,7 +2180,7 @@
 | 1967. | Patio          | Die Terrasse           | Die Terrassen                |
 | 1968. | Shovel         | Die Schaufel           | Die Schaufeln                |
 | 1969. | Pajamas        | Der Schlafanzug        | Die Schlafanzüge             |
-| 1970. | EMail          | Die EZURNAMail         | ZURNA Die EZURNAMails ZURNA  |
+| 1970. | EMail          | Die E-Mail             | Die E-Mails                  |
 | 1971. | Pigeon         | Die Taube              | Die Tauben                   |
 | 1972. | Dinosaur       | Der Dinosaurier        | Die Dinosaurier              |
 | 1973. | Industry       | Die Industrie          | Die Industrien               |
